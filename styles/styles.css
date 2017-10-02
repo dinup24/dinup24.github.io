@@ -9,3 +9,12 @@
 .nav-item {
 	padding-left: 25px;
 }
+
+.section {
+    display: none;
+	margin-top: 100px;
+}
+
+.visible {
+	display: block;
+}
