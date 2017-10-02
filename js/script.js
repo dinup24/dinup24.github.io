@@ -9,7 +9,7 @@ $('.nav-item').on('click',function(e){
   
   $('.section').removeClass('visible');
   
-  $($(this).find('.nav-link').attr('href')).addClass('visible');
+  $($(this).find('.nav-link').attr('data-refid')).addClass('visible');
 });
 
 /*$(function(){
