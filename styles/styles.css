@@ -31,5 +31,9 @@
     width: 100%;
     height: auto;
     //line-height: 60px;
-    background-color: #eee;
+    background-color: #EDEFF1;
+	//box-shadow: 1px 0px 6px rgba(0,0,0,.2);
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	margin-top: 20px;
 }
