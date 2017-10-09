@@ -37,3 +37,21 @@
 	border-bottom: 1px solid #ccc;
 	margin-top: 20px;
 }
+
+.footer-copyright {
+    overflow: hidden;
+    height: 50px;
+    background-color: rgba(0,0,0,.2);
+    text-align: center;
+    font-size: .9rem;
+	background-color: #e3e3e3;
+	padding-top: 15px;
+}
+
+.footer-copyright a {
+    color: #000;
+}
+
+.footer-copyright a:hover {
+    text-decoration: none;
+}
