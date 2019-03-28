@@ -1,4 +1,4 @@
-$('.nav-item').on('click',function(e){
+$('.nav-item-clickable').on('click',function(e){
    e.preventDefault();
 
   //Remove any previous active classes
@@ -10,6 +10,17 @@ $('.nav-item').on('click',function(e){
   $('.section').removeClass('visible');
   
   $($(this).find('.nav-link').attr('data-refid')).addClass('visible');
+});
+
+$('.dropdown-item').on('click',function(e){
+   e.preventDefault();
+   
+  //Remove any previous active classes
+  $('.nav-item').removeClass('active');
+  
+  $('.section').removeClass('visible');
+  
+  $($(this).attr('data-refid')).addClass('visible');
 });
 
 /*$(function(){
@@ -43,4 +54,3 @@ function initMap() {
 	  map: map
 	});
 }
-
