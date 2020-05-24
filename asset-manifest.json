@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/static/js/main.2bf5dac0.chunk.js",
+    "main.js.map": "/static/js/main.2bf5dac0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ef2b5ab2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ef2b5ab2.js.map",
+    "static/js/2.4d469275.chunk.js": "/static/js/2.4d469275.chunk.js",
+    "static/js/2.4d469275.chunk.js.map": "/static/js/2.4d469275.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bd4f80c8ef8b89e380878ffcb2605234.js": "/precache-manifest.bd4f80c8ef8b89e380878ffcb2605234.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4d469275.chunk.js.LICENSE.txt": "/static/js/2.4d469275.chunk.js.LICENSE.txt",
+    "static/media/accounting-finance-department.jpg": "/static/media/accounting-finance-department.beb6a6f7.jpg",
+    "static/media/accounting_banner.jpg": "/static/media/accounting_banner.d93881a2.jpg",
+    "static/media/banner.png": "/static/media/banner.e4801d80.png",
+    "static/media/ca_alex.jpg": "/static/media/ca_alex.aaca7a7c.jpg",
+    "static/media/ca_james.jpg": "/static/media/ca_james.62db9106.jpg",
+    "static/media/ca_murali.jpg": "/static/media/ca_murali.ad1945b9.jpg",
+    "static/media/ca_padmanabha_pillai.jpg": "/static/media/ca_padmanabha_pillai.89c703b0.jpg",
+    "static/media/ca_venkat.jpg": "/static/media/ca_venkat.666d9484.jpg",
+    "static/media/logo.png": "/static/media/logo.7f695bd0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef2b5ab2.js",
+    "static/js/2.4d469275.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2bf5dac0.chunk.js"
+  ]
+}
