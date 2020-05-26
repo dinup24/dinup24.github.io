@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.6c696da6.chunk.js",
-    "main.js.map": "/static/js/main.6c696da6.chunk.js.map",
+    "main.js": "/static/js/main.5d63b6ba.chunk.js",
+    "main.js.map": "/static/js/main.5d63b6ba.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ef2b5ab2.js",
     "runtime-main.js.map": "/static/js/runtime-main.ef2b5ab2.js.map",
-    "static/js/2.49578488.chunk.js": "/static/js/2.49578488.chunk.js",
-    "static/js/2.49578488.chunk.js.map": "/static/js/2.49578488.chunk.js.map",
+    "static/js/2.d2c6a5b3.chunk.js": "/static/js/2.d2c6a5b3.chunk.js",
+    "static/js/2.d2c6a5b3.chunk.js.map": "/static/js/2.d2c6a5b3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.149b84cc0f6b6ddb15b6f3f93b1e59e0.js": "/precache-manifest.149b84cc0f6b6ddb15b6f3f93b1e59e0.js",
+    "precache-manifest.4b68730f352229461b584c8d99b9d524.js": "/precache-manifest.4b68730f352229461b584c8d99b9d524.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.49578488.chunk.js.LICENSE.txt": "/static/js/2.49578488.chunk.js.LICENSE.txt",
+    "static/js/2.d2c6a5b3.chunk.js.LICENSE.txt": "/static/js/2.d2c6a5b3.chunk.js.LICENSE.txt",
     "static/media/accounting-finance-department.jpg": "/static/media/accounting-finance-department.beb6a6f7.jpg",
     "static/media/accounting_banner.jpg": "/static/media/accounting_banner.d93881a2.jpg",
     "static/media/banner.png": "/static/media/banner.e4801d80.png",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ef2b5ab2.js",
-    "static/js/2.49578488.chunk.js",
+    "static/js/2.d2c6a5b3.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.6c696da6.chunk.js"
+    "static/js/main.5d63b6ba.chunk.js"
   ]
 }
