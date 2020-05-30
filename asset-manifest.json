@@ -1,35 +1,36 @@
 {
   "files": {
     "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.c3723c4f.chunk.js",
-    "main.js.map": "/static/js/main.c3723c4f.chunk.js.map",
+    "main.js": "/static/js/main.d28a458a.chunk.js",
+    "main.js.map": "/static/js/main.d28a458a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ef2b5ab2.js",
     "runtime-main.js.map": "/static/js/runtime-main.ef2b5ab2.js.map",
-    "static/js/2.66559f7c.chunk.js": "/static/js/2.66559f7c.chunk.js",
-    "static/js/2.66559f7c.chunk.js.map": "/static/js/2.66559f7c.chunk.js.map",
+    "static/js/2.e2a5aac5.chunk.js": "/static/js/2.e2a5aac5.chunk.js",
+    "static/js/2.e2a5aac5.chunk.js.map": "/static/js/2.e2a5aac5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a79e344a45694c3c0265434296415c45.js": "/precache-manifest.a79e344a45694c3c0265434296415c45.js",
+    "precache-manifest.3aaec7e8be618215a636f6353b20bd2d.js": "/precache-manifest.3aaec7e8be618215a636f6353b20bd2d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.66559f7c.chunk.js.LICENSE.txt": "/static/js/2.66559f7c.chunk.js.LICENSE.txt",
+    "static/js/2.e2a5aac5.chunk.js.LICENSE.txt": "/static/js/2.e2a5aac5.chunk.js.LICENSE.txt",
     "static/media/accounting-finance-department.jpg": "/static/media/accounting-finance-department.beb6a6f7.jpg",
     "static/media/accounting_banner.jpg": "/static/media/accounting_banner.d93881a2.jpg",
     "static/media/banner.png": "/static/media/banner.e4801d80.png",
     "static/media/ca_abraham_thomas.jpg": "/static/media/ca_abraham_thomas.b8b7701a.jpg",
     "static/media/ca_alex.jpg": "/static/media/ca_alex.aaca7a7c.jpg",
     "static/media/ca_james.jpg": "/static/media/ca_james.62db9106.jpg",
-    "static/media/ca_krishna_raghupathy.jpg": "/static/media/ca_krishna_raghupathy.caeeb256.jpg",
+    "static/media/ca_krishna_raghupathy.jpg": "/static/media/ca_krishna_raghupathy.3e3593a5.jpg",
     "static/media/ca_murali.jpg": "/static/media/ca_murali.ad1945b9.jpg",
     "static/media/ca_padmanabha_pillai.jpg": "/static/media/ca_padmanabha_pillai.89c703b0.jpg",
-    "static/media/ca_sreenath.jpg": "/static/media/ca_sreenath.494342a7.jpg",
+    "static/media/ca_saleem.jpg": "/static/media/ca_saleem.2e7402aa.jpg",
+    "static/media/ca_sasidharan.jpg": "/static/media/ca_sasidharan.1648654b.jpg",
+    "static/media/ca_sreenath.jpg": "/static/media/ca_sreenath.14e7acea.jpg",
     "static/media/ca_venkat.jpg": "/static/media/ca_venkat.666d9484.jpg",
-    "static/media/logo.png": "/static/media/logo.7f695bd0.png",
-    "static/media/user-icon.png": "/static/media/user-icon.531340f1.png"
+    "static/media/logo.png": "/static/media/logo.055c0f80.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ef2b5ab2.js",
-    "static/js/2.66559f7c.chunk.js",
+    "static/js/2.e2a5aac5.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.c3723c4f.chunk.js"
+    "static/js/main.d28a458a.chunk.js"
   ]
 }
